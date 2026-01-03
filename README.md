@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou o Bruno Silva
 
-Sou **Desenvolvedor Fullstack**, com forte atuação em **Backend Java**, especializado em **Spring Boot**, **APIs REST**, **microsserviços** e **automação de processos (BPM)**.  
+Sou **Desenvolvedor Fullstack**, com forte atuação em **Backend Java**. **Spring Boot**, **APIs REST**, **microsserviços** e **automação de processos (BPM)**.  
 Atuo desenvolvendo soluções escaláveis, performáticas e orientadas ao negócio, integrando sistemas legados e modernos.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 💻 Fullstack Developer (Java | Spring Boot | React | TypeScript)
+- 💻 Fullstack Developer (Java | Spring Boot | Javascript | React | TypeScript | HTML | CSS)
 - 🔁 Especialista em **BPM**, automação de processos e integração de sistemas
 - 🧩 Experiência sólida com **APIs REST**, microsserviços e arquitetura distribuída
 - 📊 Forte visão de negócio, resultado de uma transição de carreira após 10 anos em operações e logística
@@ -18,7 +18,8 @@ Atuo desenvolvendo soluções escaláveis, performáticas e orientadas ao negóc
 ---
 
 ## 🛠️ Stack Tecnológica
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60"/>
+            
 ### Backend
 - Java  
 - Spring Boot  
@@ -56,7 +57,12 @@ Atuo desenvolvendo soluções escaláveis, performáticas e orientadas ao negóc
 ## 📜 Certificações em destaque
 
 - 🏅 Microsserviços com Spring Cloud – Rocketseat  
-- 🏅 Fundamentos e Navegação (React) – Rocketseat  
+- 🏅 Fundamentos e Navegação (React) – Rocketseat
+- 🏅 Fundamentos de Java – Rocketseat
+- 🏅 JavaScript Completo ES6 – Origamid
+- 🏅 Fundamentos da arquitetura de software – FullCycle 3.0
+- 🏅 Fundamentos da Cultura DevOps – Rocketseat
+- 🏅 Fundamentos do React – Rocketseat
 
 ---
 
