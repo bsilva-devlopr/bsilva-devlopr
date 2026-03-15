@@ -1,19 +1,26 @@
-# 👋 Olá, eu sou o Bruno Silva
+# 👋 Hello, I'm Bruno Silva
 
-Sou **Desenvolvedor Fullstack**, com forte atuação em **Backend Java**. **Spring Boot**, **APIs REST**, **microsserviços** e **automação de processos (BPM)**.  
-Atuo desenvolvendo soluções escaláveis, performáticas e orientadas ao negócio, integrando sistemas legados e modernos.
+Backend Java Developer focused on building scalable systems, REST APIs and enterprise integrations.
+
+I have professional experience developing backend applications using **Java and Spring Boot**, working with **system integrations, BPM automation and distributed architectures** in corporate environments.
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-- 💻 Fullstack Developer (Java | Spring Boot | Javascript | React | TypeScript | HTML | CSS)
-- 🔁 Especialista em **BPM**, automação de processos e integração de sistemas
-- 🧩 Experiência sólida com **APIs REST**, microsserviços e arquitetura distribuída
-- 📊 Forte visão de negócio, resultado de uma transição de carreira após 10 anos em operações e logística
-- 🎓 Bacharel em **Ciência da Computação**
-- 🎓 MBA em **Engenharia de Software – USP/ESALQ**
-- 🏢 Atualmente atuando na **Lecom Tecnologia**
+💻 Backend Java Developer (Spring Boot, REST APIs, Microservices)
+
+🔁 Experience with **system integration and BPM automation**
+
+🧩 Development of **scalable APIs and distributed systems**
+
+📊 Strong business vision from a previous career in **operations and logistics**
+
+🎓 Bachelor's degree in Computer Science
+
+🎓 MBA in Software Engineering – USP/ESALQ
+
+🏢 Currently working at Lecom Tecnologia developing corporate automation solutions
 
 ---
 
@@ -21,63 +28,62 @@ Atuo desenvolvendo soluções escaláveis, performáticas e orientadas ao negóc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60"/>
             
 ### Backend
-- Java  
-- Spring Boot  
-- Spring Cloud  
-- Microsserviços  
-- REST APIs  
+- Java
+- Spring Boot
+- Spring Cloud
+- REST APIs
+- Microservices 
 
 ### Frontend
-- React  
-- Next.js  
-- TypeScript  
-- JavaScript  
+- React
+- Next.js
+- TypeScript
+- JavaScript 
 
-### Banco de Dados & Infra
-- SQL  
-- Docker  
-
-### Outros
-- BPM / Automação de Processos  
-- Integração de Sistemas  
-- Arquitetura de Software  
+### Other expertise
+- BPM / Process Automation
+- System Integration
+- Software Architecture
+- Distributed Systems 
 
 ---
 
-## 📌 O que você vai encontrar aqui
+## 📌 What you will find here
 
-- Projetos em **Java + Spring Boot**
-- APIs REST e microsserviços
-- Exemplos de **integração de sistemas**
-- Estudos e experimentos com **React e TypeScript**
-- Repositórios de aprendizado contínuo e certificações
-
----
-
-## 📜 Certificações em destaque
-
-- 🏅 Microsserviços com Spring Cloud – Rocketseat  
-- 🏅 Fundamentos e Navegação (React) – Rocketseat
-- 🏅 Fundamentos de Java – Rocketseat
-- 🏅 JavaScript Completo ES6 – Origamid
-- 🏅 Fundamentos da arquitetura de software – FullCycle 3.0
-- 🏅 Fundamentos da Cultura DevOps – Rocketseat
-- 🏅 Fundamentos do React – Rocketseat
+- Java + Spring Boot backend projects
+- REST API architecture examples
+- Microservices experiments
+- System integration patterns
+- Fullstack experiments using React and TypeScript
 
 ---
 
-## 🌎 Idiomas
+## 📜 Certifications
 
-- 🇺🇸 Inglês: Básico (técnico)
-- 🇪🇸 Espanhol: Básico
-
----
-
-## 📫 Como me encontrar
-
-- 💼 LinkedIn: [linkedin.com/in/brunosilva-dev](https://www.linkedin.com/in/brunosilva-dev)
-- 💻 GitHub: [github.com/bsilva-devlopr](https://github.com/bsilva-devlopr)
+- Microservices with Spring Cloud – Rocketseat
+- Java Fundamentals – Rocketseat
+- React Fundamentals – Rocketseat
+- JavaScript ES6 – Origamid
+- Software Architecture Fundamentals – FullCycle
 
 ---
 
-🚀 *Sempre evoluindo como Java Backend Developer, Fullstack Developer e profissional de automação de processos.*
+## 🌎 Languages
+
+🇺🇸 English: Basic (technical reading)
+
+🇪🇸 Spanish: Basic
+
+---
+
+## 📫 Contact
+
+💼 LinkedIn  
+linkedin.com/in/brunosilva-dev
+
+💻 GitHub  
+github.com/bsilva-devlopr
+
+---
+
+⚡ Always improving as a **Backend Java Developer focused on scalable systems and integrations**.
